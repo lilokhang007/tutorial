@@ -3,10 +3,10 @@ from staticjinja import Site
 from distutils.dir_util import copy_tree
 
 if __name__ == "__main__":
-	copy_tree('static', 'dst')
+	copy_tree('static', 'docs')
 	site = Site.make_site(
 		searchpath = 'src',
-		outpath = 'dst')
+		outpath = 'docs')
 	try:
 		site.render()
 	except TemplateSyntaxError as error:
