@@ -1,0 +1,80 @@
+header {
+	background-image: url("cloud_banner3.jpg");
+}
+
+nav {
+	display: flex;
+	background-color: darkblue;
+}
+
+nav > span {
+	padding: 2ex;
+}
+
+nav > span.current {
+	background-color: grey;
+	color: black;
+}
+
+nav > span {
+	color: white;
+}
+
+nav > span > a {
+	color: white;
+	text-decoration-line: none;
+}
+
+nav > span > input[type="checkbox"] {
+	display: none;
+}
+
+nav > span > input[type="checkbox"]:not(:checked) + div {
+	display: none;
+}
+
+nav > span > input[type="checkbox"]:checked + div {
+	position: absolute;
+	margin-top: 1ex;
+	padding: 1ex;
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	background-color: black;
+}
+
+nav > span > input[type="checkbox"] + div > span {
+	color: white;
+}
+
+nav > span > input[type="checkbox"] + div > span.current {
+	background-color: grey;
+	color: black;
+}
+
+nav > span > input[type="checkbox"] + div > span > a {
+	color: white;
+	text-decoration-line: none;
+}
+
+html:root > body > main > h1 {
+	border-bottom-style: solid;
+	border-bottom-width: thick;
+	border-bottom-color: gray;
+	font-variant-caps: small-caps;
+}
+
+footer {
+	padding: 1ex;
+	background-color: black;
+	color: white;
+}
+
+footer > a {
+	color: white;
+}
+
+footer > p {
+	margin-top: 0;
+	margin-bottom: 0;
+}
