@@ -3,8 +3,10 @@
 <head>
 	<link rel="stylesheet" type="text/css" href="main.css">
 	<script type="text/javascript" src="main.js"></script>
-	<title>Tutorial - {% block title %}{% endblock title %}</title>
-	{% block head %}{% endblock head %}
+	<title>Tutorial - 
+	Downlaods
+</title>
+	
 </head>
 <body>
 	<header>
@@ -12,40 +14,76 @@
 		[Banner: Community Weather Information Network]
 	</header>
 	<nav>
-		{% macro menuitem(name, url) %}
-			{% if page == name %}
-				<span class="current">
-			{% else %}
+		
+		
+			
 				<span>
-					<a href="{{url|safe}}">
-			{% endif %}
-			{{ caller() }}
-			{% if page == name %}
-				</span>
-			{% else %}
+					<a href="index.html">
+			
+			
+			What's New
+		
+			
 					</a>
 				</span>
-			{% endif %}
-		{% endmacro %}
-		{% call menuitem('news', 'index.html') %}
-			What's New
-		{% endcall %}
-		{% call menuitem('about', 'about.html') %}
+			
+		
+		
+			
+				<span>
+					<a href="about.html">
+			
+			
 			About Us
-		{% endcall %}
+		
+			
+					</a>
+				</span>
+			
+		
 		<span>
 			<label for="data">Weather Data</label>
 			<input type="checkbox" id="data">
 			<div>
-				{% call menuitem('map', '#') %}
+				
+			
+				<span>
+					<a href="#">
+			
+			
 					Weather on Map
-				{% endcall %}
-				{% call menuitem('series', '#') %}
+				
+			
+					</a>
+				</span>
+			
+		
+				
+			
+				<span>
+					<a href="#">
+			
+			
 					Time-series
-				{% endcall %}
-				{% call menuitem('calendar', '#') %}
+				
+			
+					</a>
+				</span>
+			
+		
+				
+			
+				<span>
+					<a href="#">
+			
+			
 					Calendar View
-				{% endcall %}
+				
+			
+					</a>
+				</span>
+			
+		
 			</div>
 		</span>
 		<span>
@@ -58,17 +96,42 @@
 			<label for="member">Member</label>
 			<input type="checkbox" id="member">
 			<div>
-				{% call menuitem('member-list', '#') %}
+				
+			
+				<span>
+					<a href="#">
+			
+			
 					Member List
-				{% endcall %}
-				{% call menuitem('member-map', '#') %}
+				
+			
+					</a>
+				</span>
+			
+		
+				
+			
+				<span>
+					<a href="#">
+			
+			
 					Member Map
-				{% endcall %}
+				
+			
+					</a>
+				</span>
+			
+		
 			</div>
 		</span>
 	</nav>
 	<main>
-		{% block content %}{% endblock content %}
+		
+	<p>Tutorial Documents:</p>
+	<ol>
+		<li><a href="https://docs.google.com/document/d/1Fyuvhx5vaeNcQmKSm_Qu7lV7R0Ysdqvz/">2020-11-21: English: Reading Comprehension I, Maths: Exercise I (Centers of Triangles and Quadrilaterals) </a></li>
+	</ol>
+
 	</main>
 	<footer>
 		<p>&#xA9; Made by LI Lok Hang. All Rights Reserved.</p>
