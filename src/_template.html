@@ -8,70 +8,38 @@
 </head>
 <body>
 	<header>
-		<a href="index.html"><img src="icowin_icon.png"></a>
-		[Banner: Community Weather Information Network]
+		Li Lok Hang's Tutorial Site
 	</header>
-	<nav>
+	<div class='topnav'>
 		{% macro menuitem(name, url) %}
 			{% if page == name %}
-				<span class="current">
+				<span>
+					<a class='active' href="{{url|safe}}">
 			{% else %}
 				<span>
 					<a href="{{url|safe}}">
 			{% endif %}
 			{{ caller() }}
-			{% if page == name %}
-				</span>
-			{% else %}
-					</a>
-				</span>
-			{% endif %}
+				</a>
+			</span>
 		{% endmacro %}
 		{% call menuitem('news', 'index.html') %}
-			What's New
+			Homepage
 		{% endcall %}
-		{% call menuitem('about', 'about.html') %}
-			About Us
+<!--		{% call menuitem('maths', 'maths.html') %}-->
+<!--			Mathematics-->
+<!--		{% endcall %}-->
+		{% call menuitem('contact', 'contact.html') %}
+			Contacts
 		{% endcall %}
-		<span>
-			<label for="data">Weather Data</label>
-			<input type="checkbox" id="data">
-			<div>
-				{% call menuitem('map', '#') %}
-					Weather on Map
-				{% endcall %}
-				{% call menuitem('series', '#') %}
-					Time-series
-				{% endcall %}
-				{% call menuitem('calendar', '#') %}
-					Calendar View
-				{% endcall %}
-			</div>
-		</span>
-		<span>
-			<a href="http://52.220.163.88/cowinwiki/index.php/Main_Page" target="_blank">Educational Resources</a>
-		</span>
-		<span>
-			<a href="https://www.facebook.com/groups/icwos" target="_blank">CWOS</a>
-		</span>
-		<span>
-			<label for="member">Member</label>
-			<input type="checkbox" id="member">
-			<div>
-				{% call menuitem('member-list', '#') %}
-					Member List
-				{% endcall %}
-				{% call menuitem('member-map', '#') %}
-					Member Map
-				{% endcall %}
-			</div>
-		</span>
-	</nav>
+		{% call menuitem('downloads', 'downloads.html') %}
+			Downloads
+		{% endcall %}
+	</div>
 	<main>
 		{% block content %}{% endblock content %}
 	</main>
 	<footer>
-		<a href="#">Home</a>
 		<p>&#xA9; Made by Li Lok Hang. All Rights Reserved.</p>
 	</footer>
 </body>

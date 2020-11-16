@@ -1,85 +1,36 @@
 header {
-	background-image: url("cloud_banner3.jpg");
+  background-color: #222;
+  padding: 14px 16px;
+  color: #f2f2f2;
+  text-align: center;
+  text-decoration: none;
+  font-size: 17px;
 }
 
-nav {
-	display: flex;
-	background-color: white;
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #333;
+  overflow: hidden;
 }
 
-nav > span {
-	padding: 8px 16px;
-	float: left;
-	width: auto;
-	border: none;
-	display: block;
-	outline: 0;
+.topnav span a {
+  padding: 14px 16px;
+  float: left;
+  color: #d2d2d2;
+  text-align: center;
+  text-decoration: none;
+  font-size: 17px;
 }
 
-nav > span.current {
-	background-color: grey;
-	color: black;
+/* Add a color to the active/current link */
+.topnav span a.active{
+  background-color: #4CAF50;
+  color: white;
 }
 
-nav > span {
-	color: white;
+/* Change the color of links on hover */
+.topnav span a:hover {
+  background-color: #ddd;
+  color: black;
 }
 
-nav > span > a {
-	color: white;
-	text-decoration-line: none;
-}
-
-nav > span > input[type="checkbox"] {
-	display: none;
-}
-
-nav > span > input[type="checkbox"]:not(:checked) + div {
-	display: none;
-}
-
-nav > span > input[type="checkbox"]:checked + div {
-	position: absolute;
-	margin-top: 1ex;
-	padding: 1ex;
-	display: flex;
-	flex-direction: column;
-	flex-wrap: wrap;
-	background-color: black;
-}
-
-nav > span > input[type="checkbox"] + div > span {
-	color: white;
-}
-
-nav > span > input[type="checkbox"] + div > span.current {
-	background-color: grey;
-	color: black;
-}
-
-nav > span > input[type="checkbox"] + div > span > a {
-	color: white;
-	text-decoration-line: none;
-}
-
-html:root > body > main > h1 {
-	border-bottom-style: solid;
-	border-bottom-width: thick;
-	border-bottom-color: gray;
-	font-variant-caps: small-caps;
-}
-
-footer {
-	padding: 1ex;
-	background-color: black;
-	color: white;
-}
-
-footer > a {
-	color: white;
-}
-
-footer > p {
-	margin-top: 0;
-	margin-bottom: 0;
-}
