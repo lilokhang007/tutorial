@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c168d8a1-bd2c-47af-90d5-7e16345737c1" name="Default Changelist" comment="minor update" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="ProjectId" id="1kKcvADoYZJLxMncaCcJYMYCNze" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MY-PC\PycharmProjects\tutorial" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="build" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="tutorial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/build.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.build" />
+        <item itemvalue="Python.build" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c168d8a1-bd2c-47af-90d5-7e16345737c1" name="Default Changelist" comment="" />
+      <created>1605452951474</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605452951474</updated>
+    </task>
+    <task id="LOCAL-00001" summary="init cmt files">
+      <created>1605453292343</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605453292343</updated>
+    </task>
+    <task id="LOCAL-00002" summary="rendered files">
+      <created>1605453316726</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605453316726</updated>
+    </task>
+    <task id="LOCAL-00003" summary="rename">
+      <created>1605453695183</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605453695183</updated>
+    </task>
+    <task id="LOCAL-00004" summary="minor update css">
+      <created>1605454296313</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605454296313</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Tutorial site init commit">
+      <created>1605518487640</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1605518487640</updated>
+    </task>
+    <task id="LOCAL-00006" summary="minor update">
+      <created>1605518921910</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1605518921910</updated>
+    </task>
+    <task id="LOCAL-00007" summary="minor update">
+      <created>1605523074842</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1605523074842</updated>
+    </task>
+    <task id="LOCAL-00008" summary="minor update">
+      <created>1605523195027</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1605523195028</updated>
+    </task>
+    <task id="LOCAL-00009" summary="minor update">
+      <created>1605523318334</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1605523318334</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init cmt files" />
+    <MESSAGE value="rendered files" />
+    <MESSAGE value="rename" />
+    <MESSAGE value="minor update css" />
+    <MESSAGE value="Tutorial site init commit" />
+    <MESSAGE value="minor update" />
+    <option name="LAST_COMMIT_MESSAGE" value="minor update" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1259" height="285" key="GridCell.Tab.0.bottom" timestamp="1605523396660">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="285" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1605523396660" />
+    <state width="1259" height="285" key="GridCell.Tab.0.center" timestamp="1605523396660">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="285" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1605523396660" />
+    <state width="1259" height="285" key="GridCell.Tab.0.left" timestamp="1605523396660">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="285" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1605523396660" />
+    <state width="1259" height="285" key="GridCell.Tab.0.right" timestamp="1605523396660">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="285" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1605523396660" />
+    <state x="277" y="101" key="MultipleFileMergeDialog" timestamp="1605523166107">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="277" y="101" key="MultipleFileMergeDialog/0.0.1280.680@0.0.1280.680" timestamp="1605523166107" />
+  </component>
+</project>
