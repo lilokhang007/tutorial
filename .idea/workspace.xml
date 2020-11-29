@@ -19,8 +19,19 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c168d8a1-bd2c-47af-90d5-7e16345737c1" name="Default Changelist" comment="checkout main2">
-      <change beforePath="$PROJECT_DIR$/src/downloads.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/downloads.html" afterDir="false" />
+    <list default="true" id="c168d8a1-bd2c-47af-90d5-7e16345737c1" name="Default Changelist" comment="minor update">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_16_11_2020_18_46_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_16_11_2020_18_46__Default_Changelist_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.py" beforeDir="false" afterPath="$PROJECT_DIR$/build.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/downloads.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/maths.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_template.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/_template.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/vocab.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/downloads.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606116936958</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="minor update">
+      <created>1606117007373</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1606117007373</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -185,31 +203,35 @@
     <MESSAGE value="rename" />
     <MESSAGE value="minor update css" />
     <MESSAGE value="Tutorial site init commit" />
-    <MESSAGE value="minor update" />
     <MESSAGE value="checkout main2" />
-    <option name="LAST_COMMIT_MESSAGE" value="checkout main2" />
+    <MESSAGE value="minor update" />
+    <option name="LAST_COMMIT_MESSAGE" value="minor update" />
   </component>
   <component name="WindowStateProjectService">
     <state x="93" y="93" width="1095" height="495" key="DiffContextDialog" timestamp="1605523770646">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="93" y="93" width="1095" height="495" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1605523770646" />
-    <state width="1259" height="103" key="GridCell.Tab.0.bottom" timestamp="1606116826594">
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1606118654337">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="103" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1606116826594" />
-    <state width="1259" height="103" key="GridCell.Tab.0.center" timestamp="1606116826594">
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1606118654337" />
+    <state width="1259" height="213" key="GridCell.Tab.0.bottom" timestamp="1606620667584">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="103" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1606116826594" />
-    <state width="1259" height="103" key="GridCell.Tab.0.left" timestamp="1606116826594">
+    <state width="1259" height="213" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1606620667584" />
+    <state width="1259" height="213" key="GridCell.Tab.0.center" timestamp="1606620667584">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="103" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1606116826594" />
-    <state width="1259" height="103" key="GridCell.Tab.0.right" timestamp="1606116826594">
+    <state width="1259" height="213" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1606620667584" />
+    <state width="1259" height="213" key="GridCell.Tab.0.left" timestamp="1606620667583">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="103" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1606116826594" />
+    <state width="1259" height="213" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1606620667583" />
+    <state width="1259" height="213" key="GridCell.Tab.0.right" timestamp="1606620667584">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="213" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1606620667584" />
     <state x="277" y="101" key="MultipleFileMergeDialog" timestamp="1605523166107">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
