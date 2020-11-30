@@ -15,5 +15,5 @@ if __name__ == "__main__":
 		print('Template syntax error:', error.filename, 'line', error.lineno)
 		print(error.message)
 
-	os.system('staticrypt docs/tutorial1.html tko123;')
-	move('docs/tutorial1_encrypted.html','docs/tutorial1.html')
+	#os.system('staticrypt docs/tutorial1.html tko123;')
+	#move('docs/tutorial1_encrypted.html','docs/tutorial1.html')
