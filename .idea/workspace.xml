@@ -44,7 +44,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hkoautoqc" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -243,7 +243,28 @@
       <option name="project" value="LOCAL" />
       <updated>1608019897471</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="update">
+      <created>1608557362639</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1608557362639</updated>
+    </task>
+    <task id="LOCAL-00024" summary="update date">
+      <created>1608557500705</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1608557500705</updated>
+    </task>
+    <task id="LOCAL-00025" summary="update date">
+      <created>1608557612590</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1608557612590</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -267,36 +288,37 @@
     <MESSAGE value="checkout main2" />
     <MESSAGE value="minor update" />
     <MESSAGE value="encrypt" />
-    <MESSAGE value="update" />
     <MESSAGE value="update2" />
     <MESSAGE value="update3" />
-    <option name="LAST_COMMIT_MESSAGE" value="update3" />
+    <MESSAGE value="update" />
+    <MESSAGE value="update date" />
+    <option name="LAST_COMMIT_MESSAGE" value="update date" />
   </component>
   <component name="WindowStateProjectService">
     <state x="93" y="93" width="1095" height="495" key="DiffContextDialog" timestamp="1605523770646">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="93" y="93" width="1095" height="495" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1605523770646" />
-    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1608135490153">
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1608606380479">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1608135490153" />
-    <state width="1259" height="133" key="GridCell.Tab.0.bottom" timestamp="1608039308489">
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1608606380479" />
+    <state width="1259" height="133" key="GridCell.Tab.0.bottom" timestamp="1608562570137">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="133" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1608039308489" />
-    <state width="1259" height="133" key="GridCell.Tab.0.center" timestamp="1608039308489">
+    <state width="1259" height="133" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1608562570137" />
+    <state width="1259" height="133" key="GridCell.Tab.0.center" timestamp="1608562570137">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="133" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1608039308489" />
-    <state width="1259" height="133" key="GridCell.Tab.0.left" timestamp="1608039308489">
+    <state width="1259" height="133" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1608562570137" />
+    <state width="1259" height="133" key="GridCell.Tab.0.left" timestamp="1608562570136">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="133" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1608039308489" />
-    <state width="1259" height="133" key="GridCell.Tab.0.right" timestamp="1608039308489">
+    <state width="1259" height="133" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1608562570136" />
+    <state width="1259" height="133" key="GridCell.Tab.0.right" timestamp="1608562570137">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="133" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1608039308489" />
+    <state width="1259" height="133" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1608562570137" />
     <state x="277" y="101" key="MultipleFileMergeDialog" timestamp="1605523166107">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
