@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c168d8a1-bd2c-47af-90d5-7e16345737c1" name="Default Changelist" comment="update3">
+    <list default="true" id="c168d8a1-bd2c-47af-90d5-7e16345737c1" name="Default Changelist" comment="update 2021 01 05">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/tutorial1.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial1.html" afterDir="false" />
     </list>
@@ -264,7 +264,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608557612590</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="update 2021 01 05">
+      <created>1609781793878</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1609781793878</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -292,7 +299,8 @@
     <MESSAGE value="update3" />
     <MESSAGE value="update" />
     <MESSAGE value="update date" />
-    <option name="LAST_COMMIT_MESSAGE" value="update date" />
+    <MESSAGE value="update 2021 01 05" />
+    <option name="LAST_COMMIT_MESSAGE" value="update 2021 01 05" />
   </component>
   <component name="WindowStateProjectService">
     <state x="93" y="93" width="1095" height="495" key="DiffContextDialog" timestamp="1605523770646">
@@ -303,22 +311,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1608606380479" />
-    <state width="1259" height="133" key="GridCell.Tab.0.bottom" timestamp="1608562570137">
+    <state width="1259" height="133" key="GridCell.Tab.0.bottom" timestamp="1609782076668">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="133" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1608562570137" />
-    <state width="1259" height="133" key="GridCell.Tab.0.center" timestamp="1608562570137">
+    <state width="1259" height="133" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1609782076668" />
+    <state width="1259" height="133" key="GridCell.Tab.0.center" timestamp="1609782076668">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="133" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1608562570137" />
-    <state width="1259" height="133" key="GridCell.Tab.0.left" timestamp="1608562570136">
+    <state width="1259" height="133" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1609782076668" />
+    <state width="1259" height="133" key="GridCell.Tab.0.left" timestamp="1609782076668">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="133" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1608562570136" />
-    <state width="1259" height="133" key="GridCell.Tab.0.right" timestamp="1608562570137">
+    <state width="1259" height="133" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1609782076668" />
+    <state width="1259" height="133" key="GridCell.Tab.0.right" timestamp="1609782076668">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="133" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1608562570137" />
+    <state width="1259" height="133" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1609782076668" />
     <state x="277" y="101" key="MultipleFileMergeDialog" timestamp="1605523166107">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
