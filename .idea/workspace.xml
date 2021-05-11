@@ -91,13 +91,6 @@
       <option name="presentableId" value="Default" />
       <updated>1605452951474</updated>
     </task>
-    <task id="LOCAL-00013" summary="encrypt">
-      <created>1606620729670</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1606620729670</updated>
-    </task>
     <task id="LOCAL-00014" summary="encrypt">
       <created>1606634304349</created>
       <option name="number" value="00014" />
@@ -434,7 +427,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619546579301</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="0505">
+      <created>1620203889725</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1620203889725</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -450,7 +450,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Tutorial site init commit" />
     <MESSAGE value="checkout main2" />
     <MESSAGE value="minor update" />
     <MESSAGE value="encrypt" />
@@ -475,7 +474,8 @@
     <MESSAGE value="0412" />
     <MESSAGE value="update 2021 04 19" />
     <MESSAGE value="0428" />
-    <option name="LAST_COMMIT_MESSAGE" value="0428" />
+    <MESSAGE value="0505" />
+    <option name="LAST_COMMIT_MESSAGE" value="0505" />
   </component>
   <component name="WindowStateProjectService">
     <state x="385" y="141" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1614416780229">
@@ -486,22 +486,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1619665283293" />
-    <state width="1259" height="213" key="GridCell.Tab.0.bottom" timestamp="1619546630243">
+    <state width="1259" height="213" key="GridCell.Tab.0.bottom" timestamp="1620207221832">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="213" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1619546630243" />
-    <state width="1259" height="213" key="GridCell.Tab.0.center" timestamp="1619546630243">
+    <state width="1259" height="213" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1620207221832" />
+    <state width="1259" height="213" key="GridCell.Tab.0.center" timestamp="1620207221832">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="213" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1619546630243" />
-    <state width="1259" height="213" key="GridCell.Tab.0.left" timestamp="1619546630243">
+    <state width="1259" height="213" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1620207221832" />
+    <state width="1259" height="213" key="GridCell.Tab.0.left" timestamp="1620207221832">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="213" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1619546630243" />
-    <state width="1259" height="213" key="GridCell.Tab.0.right" timestamp="1619546630243">
+    <state width="1259" height="213" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1620207221832" />
+    <state width="1259" height="213" key="GridCell.Tab.0.right" timestamp="1620207221832">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="213" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1619546630243" />
+    <state width="1259" height="213" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1620207221832" />
     <state width="1259" height="251" key="GridCell.Tab.1.bottom" timestamp="1614910271055">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
