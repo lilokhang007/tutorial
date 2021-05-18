@@ -21,7 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c168d8a1-bd2c-47af-90d5-7e16345737c1" name="Default Changelist" comment="update 2021 04 19">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tutorial1.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +43,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../webpage" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -90,13 +90,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605452951474</updated>
-    </task>
-    <task id="LOCAL-00014" summary="encrypt">
-      <created>1606634304349</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1606634304349</updated>
     </task>
     <task id="LOCAL-00015" summary="update">
       <created>1606748680363</created>
@@ -434,7 +427,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620203889725</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="12/05">
+      <created>1620756445912</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1620756445913</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -450,7 +450,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="checkout main2" />
     <MESSAGE value="minor update" />
     <MESSAGE value="encrypt" />
     <MESSAGE value="update2" />
@@ -475,33 +474,34 @@
     <MESSAGE value="update 2021 04 19" />
     <MESSAGE value="0428" />
     <MESSAGE value="0505" />
-    <option name="LAST_COMMIT_MESSAGE" value="0505" />
+    <MESSAGE value="12/05" />
+    <option name="LAST_COMMIT_MESSAGE" value="12/05" />
   </component>
   <component name="WindowStateProjectService">
     <state x="385" y="141" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1614416780229">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="385" y="141" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1614416780229" />
-    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1619665283293">
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1621013063794">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1619665283293" />
-    <state width="1259" height="213" key="GridCell.Tab.0.bottom" timestamp="1620207221832">
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1621013063794" />
+    <state width="1259" height="213" key="GridCell.Tab.0.bottom" timestamp="1620794498450">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="213" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1620207221832" />
-    <state width="1259" height="213" key="GridCell.Tab.0.center" timestamp="1620207221832">
+    <state width="1259" height="213" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1620794498450" />
+    <state width="1259" height="213" key="GridCell.Tab.0.center" timestamp="1620794498450">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="213" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1620207221832" />
-    <state width="1259" height="213" key="GridCell.Tab.0.left" timestamp="1620207221832">
+    <state width="1259" height="213" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1620794498450" />
+    <state width="1259" height="213" key="GridCell.Tab.0.left" timestamp="1620794498448">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="213" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1620207221832" />
-    <state width="1259" height="213" key="GridCell.Tab.0.right" timestamp="1620207221832">
+    <state width="1259" height="213" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1620794498448" />
+    <state width="1259" height="213" key="GridCell.Tab.0.right" timestamp="1620794498450">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="213" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1620207221832" />
+    <state width="1259" height="213" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1620794498450" />
     <state width="1259" height="251" key="GridCell.Tab.1.bottom" timestamp="1614910271055">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -518,13 +518,17 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1259" height="251" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1614910271053" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1620815923780">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1620815923780" />
     <state x="144" y="377" width="984" height="374" key="dock-window-1" timestamp="1614744779534">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="144" y="377" width="984" height="374" key="dock-window-1/0.0.1280.680@0.0.1280.680" timestamp="1614744779534" />
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1614970580439">
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1620815804064">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1614970580439" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1620815804064" />
   </component>
 </project>
