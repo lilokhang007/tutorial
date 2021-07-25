@@ -20,9 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c168d8a1-bd2c-47af-90d5-7e16345737c1" name="Default Changelist" comment="update 2021 07 23">
+      <change afterPath="$PROJECT_DIR$/src/20210724ans.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/3B_oxidnum.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tutorial1.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/20210724.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/20210724.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chemistry.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chemistry.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/20210724.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/20210724.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chemistry.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/chemistry.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,10 +49,13 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../portal" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MY-PC\PycharmProjects\tutorial\src" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\MY-PC\PycharmProjects\tutorial\static" />
       <recent name="C:\Users\MY-PC\PycharmProjects\tutorial\src" />
@@ -92,20 +99,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605452951474</updated>
-    </task>
-    <task id="LOCAL-00025" summary="update date">
-      <created>1608557612590</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1608557612590</updated>
-    </task>
-    <task id="LOCAL-00026" summary="update 2021 01 05">
-      <created>1609781793878</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1609781793878</updated>
     </task>
     <task id="LOCAL-00027" summary="update 2021 01 08">
       <created>1610101854109</created>
@@ -436,7 +429,21 @@
       <option name="project" value="LOCAL" />
       <updated>1627050117957</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="update 2021 07 23">
+      <created>1627051970682</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1627051970682</updated>
+    </task>
+    <task id="LOCAL-00075" summary="update 2021 07 23">
+      <created>1627051976386</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1627051976386</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -484,22 +491,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1626100805082" />
-    <state width="1259" height="2" key="GridCell.Tab.0.bottom" timestamp="1627050893057">
+    <state width="1259" height="85" key="GridCell.Tab.0.bottom" timestamp="1627185845777">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="2" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1627050893057" />
-    <state width="1259" height="2" key="GridCell.Tab.0.center" timestamp="1627050893057">
+    <state width="1259" height="85" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1627185845777" />
+    <state width="1259" height="85" key="GridCell.Tab.0.center" timestamp="1627185845776">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="2" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1627050893057" />
-    <state width="1259" height="2" key="GridCell.Tab.0.left" timestamp="1627050893057">
+    <state width="1259" height="85" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1627185845776" />
+    <state width="1259" height="85" key="GridCell.Tab.0.left" timestamp="1627185845775">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="2" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1627050893057" />
-    <state width="1259" height="2" key="GridCell.Tab.0.right" timestamp="1627050893057">
+    <state width="1259" height="85" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1627185845775" />
+    <state width="1259" height="85" key="GridCell.Tab.0.right" timestamp="1627185845777">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="2" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1627050893057" />
+    <state width="1259" height="85" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1627185845777" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1620815923780">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
