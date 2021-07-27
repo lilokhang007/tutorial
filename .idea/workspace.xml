@@ -19,14 +19,34 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c168d8a1-bd2c-47af-90d5-7e16345737c1" name="Default Changelist" comment="update 2021 07 23">
-      <change afterPath="$PROJECT_DIR$/src/20210724ans.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/3B_oxidnum.html" afterDir="false" />
+    <list default="true" id="c168d8a1-bd2c-47af-90d5-7e16345737c1" name="Default Changelist" comment="update 2021 07 24">
+      <change afterPath="$PROJECT_DIR$/src/20210731.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/20210731ans.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/20210724.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/20210724.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/20210227.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/20210228.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/20210301.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/20210302.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/20210303.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/20210304.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/20210305.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/20210306.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/20210724ans.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/20210724ans.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/F5_20210306.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/chemistry.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chemistry.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/20210724.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/20210724.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/maths.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tutorial1.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tutorial1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/20210227.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/20210228.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/20210301.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/20210302.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/20210303.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/20210304.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/20210305.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/20210306.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/20210724ans.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/20210724ans.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/chemistry.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/chemistry.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tutorial1.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,13 +73,13 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\MY-PC\PycharmProjects\tutorial\src" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\MY-PC\PycharmProjects\tutorial\static" />
       <recent name="C:\Users\MY-PC\PycharmProjects\tutorial\src" />
       <recent name="C:\Users\MY-PC\PycharmProjects\tutorial" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MY-PC\PycharmProjects\tutorial\src" />
     </key>
   </component>
   <component name="RunManager">
@@ -99,20 +119,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605452951474</updated>
-    </task>
-    <task id="LOCAL-00027" summary="update 2021 01 08">
-      <created>1610101854109</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1610101854109</updated>
-    </task>
-    <task id="LOCAL-00028" summary="update 2021 01 13">
-      <created>1610510947927</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1610510947927</updated>
     </task>
     <task id="LOCAL-00029" summary="update 20210201">
       <created>1612178876586</created>
@@ -443,7 +449,21 @@
       <option name="project" value="LOCAL" />
       <updated>1627051976386</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="update 2021 07 24">
+      <created>1627185954890</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1627185954891</updated>
+    </task>
+    <task id="LOCAL-00077" summary="update 2021 07 24">
+      <created>1627185968221</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1627185968221</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -459,7 +479,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="update 2021 01 13" />
     <MESSAGE value="update 20210201" />
     <MESSAGE value="update 2021 02 24" />
     <MESSAGE value="update 2021 02 27" />
@@ -484,29 +503,30 @@
     <MESSAGE value="update 2021 07 03" />
     <MESSAGE value="20210711" />
     <MESSAGE value="update 2021 07 23" />
-    <option name="LAST_COMMIT_MESSAGE" value="update 2021 07 23" />
+    <MESSAGE value="update 2021 07 24" />
+    <option name="LAST_COMMIT_MESSAGE" value="update 2021 07 24" />
   </component>
   <component name="WindowStateProjectService">
     <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1626100805082">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1626100805082" />
-    <state width="1259" height="85" key="GridCell.Tab.0.bottom" timestamp="1627185845777">
+    <state width="1259" height="85" key="GridCell.Tab.0.bottom" timestamp="1627402145291">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="85" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1627185845777" />
-    <state width="1259" height="85" key="GridCell.Tab.0.center" timestamp="1627185845776">
+    <state width="1259" height="85" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1627402145291" />
+    <state width="1259" height="85" key="GridCell.Tab.0.center" timestamp="1627402145290">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="85" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1627185845776" />
-    <state width="1259" height="85" key="GridCell.Tab.0.left" timestamp="1627185845775">
+    <state width="1259" height="85" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1627402145290" />
+    <state width="1259" height="85" key="GridCell.Tab.0.left" timestamp="1627402145290">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="85" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1627185845775" />
-    <state width="1259" height="85" key="GridCell.Tab.0.right" timestamp="1627185845777">
+    <state width="1259" height="85" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1627402145290" />
+    <state width="1259" height="85" key="GridCell.Tab.0.right" timestamp="1627402145290">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="85" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1627185845777" />
+    <state width="1259" height="85" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1627402145290" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1620815923780">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -515,9 +535,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="450" y="253" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1625933915149" />
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1620815804064">
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1627185920308">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1620815804064" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1627185920308" />
   </component>
 </project>
