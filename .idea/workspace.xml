@@ -19,34 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c168d8a1-bd2c-47af-90d5-7e16345737c1" name="Default Changelist" comment="update 2021 07 24">
-      <change afterPath="$PROJECT_DIR$/src/20210731.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/20210731ans.html" afterDir="false" />
+    <list default="true" id="c168d8a1-bd2c-47af-90d5-7e16345737c1" name="Default Changelist" comment="update 2021 07 28">
+      <change afterPath="$PROJECT_DIR$/src/2_sol.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2_titration.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/20210227.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/20210228.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/20210301.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/20210302.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/20210303.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/20210304.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/20210305.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/20210306.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/20210724ans.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/20210724ans.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/F5_20210306.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/chemistry.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chemistry.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/maths.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tutorial1.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tutorial1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/20210227.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/20210228.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/20210301.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/20210302.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/20210303.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/20210304.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/20210305.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/20210306.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/20210724ans.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/20210724ans.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/chemistry.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/chemistry.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tutorial1.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,20 +97,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605452951474</updated>
-    </task>
-    <task id="LOCAL-00029" summary="update 20210201">
-      <created>1612178876586</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1612178876586</updated>
-    </task>
-    <task id="LOCAL-00030" summary="update 2021 02 24">
-      <created>1614140088193</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1614140088193</updated>
     </task>
     <task id="LOCAL-00031" summary="update 2021 02 24">
       <created>1614140550818</created>
@@ -463,7 +427,21 @@
       <option name="project" value="LOCAL" />
       <updated>1627185968221</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="update 2021 07 28">
+      <created>1627403097721</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1627403097722</updated>
+    </task>
+    <task id="LOCAL-00079" summary="update 2021 07 28">
+      <created>1627403159107</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1627403159107</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -479,7 +457,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="update 20210201" />
     <MESSAGE value="update 2021 02 24" />
     <MESSAGE value="update 2021 02 27" />
     <MESSAGE value="update" />
@@ -504,29 +481,30 @@
     <MESSAGE value="20210711" />
     <MESSAGE value="update 2021 07 23" />
     <MESSAGE value="update 2021 07 24" />
-    <option name="LAST_COMMIT_MESSAGE" value="update 2021 07 24" />
+    <MESSAGE value="update 2021 07 28" />
+    <option name="LAST_COMMIT_MESSAGE" value="update 2021 07 28" />
   </component>
   <component name="WindowStateProjectService">
     <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1626100805082">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1626100805082" />
-    <state width="1259" height="85" key="GridCell.Tab.0.bottom" timestamp="1627402145291">
+    <state width="1259" height="119" key="GridCell.Tab.0.bottom" timestamp="1627403638432">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="85" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1627402145291" />
-    <state width="1259" height="85" key="GridCell.Tab.0.center" timestamp="1627402145290">
+    <state width="1259" height="119" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1627403638432" />
+    <state width="1259" height="119" key="GridCell.Tab.0.center" timestamp="1627403638431">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="85" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1627402145290" />
-    <state width="1259" height="85" key="GridCell.Tab.0.left" timestamp="1627402145290">
+    <state width="1259" height="119" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1627403638431" />
+    <state width="1259" height="119" key="GridCell.Tab.0.left" timestamp="1627403638422">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="85" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1627402145290" />
-    <state width="1259" height="85" key="GridCell.Tab.0.right" timestamp="1627402145290">
+    <state width="1259" height="119" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1627403638422" />
+    <state width="1259" height="119" key="GridCell.Tab.0.right" timestamp="1627403638431">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="85" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1627402145290" />
+    <state width="1259" height="119" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1627403638431" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1620815923780">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
