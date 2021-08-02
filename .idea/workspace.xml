@@ -20,16 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c168d8a1-bd2c-47af-90d5-7e16345737c1" name="Default Changelist" comment="update 2021 08 01">
-      <change afterPath="$PROJECT_DIR$/src/sq_4B_polymer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sq_4B_polymerans.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chemistry.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chemistry.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/sq_4B_deduce.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/sq_4B_deduce.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/sq_4B_deduceans.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/sq_4B_deduceans.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chemistry.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/chemistry.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sq_4B_deduce.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/sq_4B_deduce.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sq_4B_deduceans.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/sq_4B_deduceans.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sq_4B_polymer.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/sq_4B_polymer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sq_4B_polymerans.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/sq_4B_polymerans.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,13 +95,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605452951474</updated>
-    </task>
-    <task id="LOCAL-00034" summary="update 2021 02 27">
-      <created>1614439923064</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1614439923064</updated>
     </task>
     <task id="LOCAL-00035" summary="update 2021 03 01">
       <created>1614521823178</created>
@@ -446,7 +432,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627748009284</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="update 2021 08 01">
+      <created>1627916691627</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1627916691628</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -494,22 +487,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1626100805082" />
-    <state width="1259" height="105" key="GridCell.Tab.0.bottom" timestamp="1627748923074">
+    <state width="1259" height="2" key="GridCell.Tab.0.bottom" timestamp="1627916708332">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="105" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1627748923074" />
-    <state width="1259" height="105" key="GridCell.Tab.0.center" timestamp="1627748923073">
+    <state width="1259" height="2" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1627916708332" />
+    <state width="1259" height="2" key="GridCell.Tab.0.center" timestamp="1627916708332">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="105" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1627748923073" />
-    <state width="1259" height="105" key="GridCell.Tab.0.left" timestamp="1627748923073">
+    <state width="1259" height="2" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1627916708332" />
+    <state width="1259" height="2" key="GridCell.Tab.0.left" timestamp="1627916708332">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="105" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1627748923073" />
-    <state width="1259" height="105" key="GridCell.Tab.0.right" timestamp="1627748923074">
+    <state width="1259" height="2" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1627916708332" />
+    <state width="1259" height="2" key="GridCell.Tab.0.right" timestamp="1627916708332">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="105" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1627748923074" />
+    <state width="1259" height="2" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1627916708332" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1620815923780">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
