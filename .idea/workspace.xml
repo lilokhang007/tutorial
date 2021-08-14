@@ -20,14 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c168d8a1-bd2c-47af-90d5-7e16345737c1" name="Default Changelist" comment="update 2021 08 01">
+      <change afterPath="$PROJECT_DIR$/src/20210821.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/20210821ans.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/20210807.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/20210814.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/20210807ans.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/20210814ans.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tutorial1.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tutorial1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/chemistry.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/chemistry.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/tutorial1.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/20210807_a.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/20210814_a.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/20210807_b.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/20210814_b.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/20210807_c.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/20210814_c.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,13 +52,13 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MY-PC\PycharmProjects\tutorial\src" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\MY-PC\PycharmProjects\tutorial\static" />
       <recent name="C:\Users\MY-PC\PycharmProjects\tutorial\src" />
       <recent name="C:\Users\MY-PC\PycharmProjects\tutorial" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\MY-PC\PycharmProjects\tutorial\src" />
     </key>
   </component>
   <component name="RunManager">
