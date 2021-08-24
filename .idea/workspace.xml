@@ -20,7 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c168d8a1-bd2c-47af-90d5-7e16345737c1" name="Default Changelist" comment="update 2021 08 14">
+      <change afterPath="$PROJECT_DIR$/src/20210828.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/20210828ans.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/20210821ans.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/20210821ans.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chemistry.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chemistry.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tutorial1.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tutorial1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/20210821ans.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/20210821ans.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chemistry.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/chemistry.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tutorial1.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,13 +55,14 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\MY-PC\PycharmProjects\tutorial\src" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\MY-PC\PycharmProjects\tutorial\static" />
       <recent name="C:\Users\MY-PC\PycharmProjects\tutorial\src" />
       <recent name="C:\Users\MY-PC\PycharmProjects\tutorial" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MY-PC\PycharmProjects\tutorial\src" />
+      <recent name="C:\Users\MY-PC\PycharmProjects\tutorial\docs" />
     </key>
   </component>
   <component name="RunManager">
@@ -93,13 +102,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605452951474</updated>
-    </task>
-    <task id="LOCAL-00039" summary="update 2021 03 01">
-      <created>1614587096586</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1614587096586</updated>
     </task>
     <task id="LOCAL-00040" summary="Update 0301">
       <created>1614603774342</created>
@@ -437,7 +439,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628922564809</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="update 2021 08 14">
+      <created>1628922627446</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1628922627446</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -485,22 +494,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1626100805082" />
-    <state width="1259" height="26" key="GridCell.Tab.0.bottom" timestamp="1628922564411">
+    <state width="1259" height="26" key="GridCell.Tab.0.bottom" timestamp="1628922709344">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="26" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1628922564411" />
-    <state width="1259" height="26" key="GridCell.Tab.0.center" timestamp="1628922564411">
+    <state width="1259" height="26" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1628922709344" />
+    <state width="1259" height="26" key="GridCell.Tab.0.center" timestamp="1628922709344">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="26" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1628922564411" />
-    <state width="1259" height="26" key="GridCell.Tab.0.left" timestamp="1628922564411">
+    <state width="1259" height="26" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1628922709344" />
+    <state width="1259" height="26" key="GridCell.Tab.0.left" timestamp="1628922709344">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="26" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1628922564411" />
-    <state width="1259" height="26" key="GridCell.Tab.0.right" timestamp="1628922564411">
+    <state width="1259" height="26" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1628922709344" />
+    <state width="1259" height="26" key="GridCell.Tab.0.right" timestamp="1628922709344">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="26" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1628922564411" />
+    <state width="1259" height="26" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1628922709344" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1620815923780">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
