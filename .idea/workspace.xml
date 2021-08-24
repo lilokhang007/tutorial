@@ -494,26 +494,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1626100805082" />
-    <state width="1259" height="26" key="GridCell.Tab.0.bottom" timestamp="1628922709344">
+    <state width="1259" height="285" key="GridCell.Tab.0.bottom" timestamp="1629764632047">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="26" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1628922709344" />
-    <state width="1259" height="26" key="GridCell.Tab.0.center" timestamp="1628922709344">
+    <state width="1259" height="285" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1629764632047" />
+    <state width="1259" height="285" key="GridCell.Tab.0.center" timestamp="1629764632046">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="26" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1628922709344" />
-    <state width="1259" height="26" key="GridCell.Tab.0.left" timestamp="1628922709344">
+    <state width="1259" height="285" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1629764632046" />
+    <state width="1259" height="285" key="GridCell.Tab.0.left" timestamp="1629764632046">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="26" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1628922709344" />
-    <state width="1259" height="26" key="GridCell.Tab.0.right" timestamp="1628922709344">
+    <state width="1259" height="285" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1629764632046" />
+    <state width="1259" height="285" key="GridCell.Tab.0.right" timestamp="1629764632046">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="26" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1628922709344" />
-    <state x="142" y="0" key="SettingsEditor" timestamp="1620815923780">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1620815923780" />
+    <state width="1259" height="285" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1629764632046" />
     <state x="450" y="253" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1625933915149">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
