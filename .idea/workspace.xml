@@ -19,10 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c168d8a1-bd2c-47af-90d5-7e16345737c1" name="Default Changelist" comment="update 2021 10 13">
+    <list default="true" id="c168d8a1-bd2c-47af-90d5-7e16345737c1" name="Default Changelist" comment="update 2021 10 26">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/20211023.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/20211023.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/20211023ans.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/20211023ans.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/tutorial1.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,13 +95,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605452951474</updated>
-    </task>
-    <task id="LOCAL-00051" summary="update 2021 03 06">
-      <created>1614970794061</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1614970794061</updated>
     </task>
     <task id="LOCAL-00052" summary="update 2021 03 12">
       <created>1615554352364</created>
@@ -441,7 +432,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634959389132</updated>
     </task>
-    <option name="localTasksCounter" value="100" />
+    <task id="LOCAL-00100" summary="update 2021 10 26">
+      <created>1635212735503</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1635212735503</updated>
+    </task>
+    <option name="localTasksCounter" value="101" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -457,7 +455,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="update 2021 03 12" />
     <MESSAGE value="0329" />
     <MESSAGE value="0412" />
     <MESSAGE value="update 2021 04 19" />
@@ -482,6 +479,7 @@
     <MESSAGE value="update 2021 10 05" />
     <MESSAGE value="update 2021 10 13" />
     <MESSAGE value="0" />
-    <option name="LAST_COMMIT_MESSAGE" value="0" />
+    <MESSAGE value="update 2021 10 26" />
+    <option name="LAST_COMMIT_MESSAGE" value="update 2021 10 26" />
   </component>
 </project>
