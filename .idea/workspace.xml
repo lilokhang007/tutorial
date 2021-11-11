@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c168d8a1-bd2c-47af-90d5-7e16345737c1" name="Default Changelist" comment="update 2021 10 26">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c168d8a1-bd2c-47af-90d5-7e16345737c1" name="Default Changelist" comment="update 2021 10 26" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,6 +55,7 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/docs" />
       <recent name="C:\Users\MY-PC\PycharmProjects\tutorial\src" />
       <recent name="C:\Users\MY-PC\PycharmProjects\tutorial\docs" />
     </key>
